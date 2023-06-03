@@ -3,7 +3,7 @@
 
   <h2>I'm Lina</h2>
   <h3>A student at Aix-Marseille Université on computer sciences</h3>
-  <p>Currently working on an android app</p>
+  <p>Currently working on an android app : https://github.com/kebciSofiane/HobbyZooApp#readme
   <p>I’m interested in Web dev</p>
   <p> :envelope_with_arrow:	How to reach me : lina.aitrazzouk@gmail.com <p/>
 
