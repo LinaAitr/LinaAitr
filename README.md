@@ -1,8 +1,7 @@
 
 <h1 align="center"> Hi there 👋</h1>
 
-
-
+<p>My name is Lina</p>
 <!--
 **LinaAitr/LinaAitr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
