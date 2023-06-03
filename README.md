@@ -7,7 +7,7 @@
 
 
 
-<h6 align="center">Deposit of my projects : in progress..</h6>
+<h6 align="center">Deposit of my projects : in progress...</h6>
 <p align="center" ><img src="https://raw.githubusercontent.com/LinaAitr/LinaAitr/main/progress_bar.gif"></p>
 <!--
 **LinaAitr/LinaAitr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
